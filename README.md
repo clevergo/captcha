@@ -56,10 +56,6 @@ Examples
 
 [fasthttp](capexample/fasthttp.go)
 
-![Image](capgen/example.png)
-
-[Audio](capgen/example.wav)
-
 
 Constants
 ---------
